@@ -1,0 +1,129 @@
+.navbar{
+    display: flex;
+}
+.list{
+    margin-left: 124px;
+    margin-top: 30px;
+
+}
+.list ul li{
+    display: inline-block;
+    margin-left: 24px;
+    font-size: 12px;
+}
+.list ul li a{
+    font-family: 'Inter', sans-serif;
+}
+.logo{
+    margin-left: 280px;
+    margin-top: 30px;
+}
+.shop{
+    margin-left: 290px;
+    display: flex;
+    margin-top: 3px;
+    
+}
+.cari{
+    margin-bottom: 1px;
+    margin-top: 13px;
+}
+.keranjang{
+    margin-bottom: 1px;
+    margin-top: 13px;
+}
+.contact{
+    margin-right: 3px;
+    margin-left: 90px;
+    margin-top: 15px;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+}
+.jud{
+    border-radius: 0px;
+    font-size: 35px;
+}
+.view-det{
+    margin-left: 120px;
+    margin-top: 30px;
+    size: 10px;
+}
+.orang{
+    margin-left: 350px;
+    display: flex;
+}
+.bg{
+    margin-left: 350px;
+    display: flex;
+}
+
+.tanaman{
+    margin: 10px;
+    display: inline-block;
+}
+.list-tan{
+    display: flex;
+    
+}
+/* desain footer */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    height: 100px;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    margin-top: 100px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  section h2 {
+    font-size: 2rem;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #ccc;
+    color: #000;
+    padding: 20px;
+  }
+  
+  footer p {
+    text-align: center;
+  }
+  
